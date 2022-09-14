@@ -327,6 +327,8 @@ div {
     margin-right: .5em; }
     .post .tags a i {
       padding-right: 0.3em; }
+      .post .tags a i:before {
+        margin-right: 0.3em; }
 
 .page-navigator {
   border-top: 1px solid #ddd;
