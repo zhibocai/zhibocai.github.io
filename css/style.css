@@ -381,8 +381,10 @@ div {
   line-height: 2.5;
   color: #6E7173;
   text-align: center; }
-  #footer span {
-    font-size: .9em; }
+  #footer #footer-normal {
+    display: none; }
+  #footer #footer-cn {
+    display: none; }
 
 /* for archive page starts*/
 .post-archive {
